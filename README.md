@@ -1,6 +1,6 @@
 # Hi there, I'm Begginning5 👋
 
-## About Me
+## <em>My Hot Pink Header!</em>
 
 - 🔭 I'm currently working on exciting new projects
 - 🌱 I'm continuously learning and expanding my skills
